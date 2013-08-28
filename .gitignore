@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/multicalculatorp2/nbproject/private/
+/MultiCalculatorTUI/nbproject/private/
+/MultiCalculatorTUI/build/
