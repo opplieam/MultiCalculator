@@ -20,6 +20,6 @@ How to
 
 Command
 =======
-Type help to see the avaliable command
+Type `help` to see the avaliable command
 
-[1]:[http://jlinalg.sourceforge.net]
+[1]: http://jlinalg.sourceforge.net
